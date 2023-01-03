@@ -1,0 +1,23 @@
+D:\semester 5\proNET\Bank_Darah\Bank_Darah\bin\Debug\Bank_Darah.exe
+D:\semester 5\proNET\Bank_Darah\Bank_Darah\bin\Debug\Bank_Darah.pdb
+D:\semester 5\proNET\Bank_Darah\Bank_Darah\obj\Debug\Bank_Darah.csprojResolveAssemblyReference.cache
+D:\semester 5\proNET\Bank_Darah\Bank_Darah\obj\Debug\Bank_Darah.Pendonor.resources
+D:\semester 5\proNET\Bank_Darah\Bank_Darah\obj\Debug\Bank_Darah.Properties.Resources.resources
+D:\semester 5\proNET\Bank_Darah\Bank_Darah\obj\Debug\Bank_Darah.csproj.GenerateResource.Cache
+D:\semester 5\proNET\Bank_Darah\Bank_Darah\obj\Debug\Bank_Darah.exe
+D:\semester 5\proNET\Bank_Darah\Bank_Darah\obj\Debug\Bank_Darah.pdb
+C:\Users\LENOVO\Downloads\Compressed\Bank_Darah-main\Bank_Darah-main\Bank_Darah\obj\Debug\Bank_Darah.exe
+C:\Users\LENOVO\Downloads\Compressed\Bank_Darah-main\Bank_Darah-main\Bank_Darah\obj\Debug\Bank_Darah.pdb
+C:\Users\LENOVO\Downloads\ipg\Bank_Darah-main_2\Bank_Darah-main\Bank_Darah\obj\Debug\Bank_Darah.exe
+C:\Users\LENOVO\Downloads\ipg\Bank_Darah-main_2\Bank_Darah-main\Bank_Darah\obj\Debug\Bank_Darah.pdb
+C:\Users\LENOVO\Downloads\ipg\part2\Bank_Darah-main\Bank_Darah\obj\Debug\Bank_Darah.exe
+C:\Users\LENOVO\Downloads\ipg\part2\Bank_Darah-main\Bank_Darah\obj\Debug\Bank_Darah.pdb
+D:\Semester 5\PRONET\projek\Bank_Darah-main\Bank_Darah\obj\Debug\Bank_Darah.exe
+D:\Semester 5\PRONET\projek\Bank_Darah-main\Bank_Darah\obj\Debug\Bank_Darah.pdb
+D:\Semester 5\PRONET\projek\Bank_Darah-main\Bank_Darah\bin\Debug\Bank_Darah.exe
+D:\Semester 5\PRONET\projek\Bank_Darah-main\Bank_Darah\bin\Debug\Bank_Darah.pdb
+D:\Semester 5\PRONET\projek\Bank_Darah-main\Bank_Darah\obj\Debug\Bank_Darah.csprojResolveAssemblyReference.cache
+D:\Semester 5\PRONET\projek\Bank_Darah-main\Bank_Darah\obj\Debug\Bank_Darah.Pendonor.resources
+D:\Semester 5\PRONET\projek\Bank_Darah-main\Bank_Darah\obj\Debug\Bank_Darah.Penerima.resources
+D:\Semester 5\PRONET\projek\Bank_Darah-main\Bank_Darah\obj\Debug\Bank_Darah.Properties.Resources.resources
+D:\Semester 5\PRONET\projek\Bank_Darah-main\Bank_Darah\obj\Debug\Bank_Darah.csproj.GenerateResource.Cache
